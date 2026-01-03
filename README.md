@@ -20,7 +20,9 @@ FUTURE_DS_03
 ├── screenshots/
 │ ├── dashboard_overview.png
 │ ├── kpi_section.png
-│ └── charts_section.png
+│ ├── daily_click_trend.png 
+| ├── ad_spend_by_age.png 
+| ├── clicks_by_age.png  
 │
 ├── insights/
 │ └── key_Insights.txt
@@ -108,4 +110,5 @@ FUTURE_DS_03
 
 ## 🙌 Acknowledgement
 Task completed as part of the **Future Interns – Data Science & Analytics Internship**.
+
 
